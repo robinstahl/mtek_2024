@@ -1,0 +1,4 @@
+venv/
+aux_files/
+.vscode/
+.DS_Store
